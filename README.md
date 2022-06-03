@@ -1,4 +1,3 @@
-
 ## Olá! Eu sou o Jeff Chien
 
 Engenheiro Civil, com 31 anos, formado em 2014, e está conhecendo um mundo novo na área de programação.
