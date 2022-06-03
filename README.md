@@ -1,4 +1,11 @@
+
 ## Olá! Eu sou o Jeff Chien
+
+Engenheiro Civil, com 31 anos, formado em 2014, e está conhecendo um mundo novo na área de programação.
+Atualmente estudando para poder entrar na área de tecnologia!
+
+##
+
 <div align="left">
   <a href="https://github.com/JeffChien1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffChien1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -23,3 +30,4 @@
 ![Snake animation](https://github.com/JeffChien1/JeffChien1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
