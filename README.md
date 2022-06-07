@@ -1,7 +1,10 @@
-## Olá! Eu sou o Jeff Chien
+## Jeff Chien
 
-Engenheiro Civil, com 31 anos, formado em 2014, e está conhecendo um mundo novo na área de programação.
-Atualmente estudando para poder entrar na área de tecnologia!
+- 👷‍ Engenheiro Civil
+- 👨‍✈️ Piloto Profissional RPA
+- 🔊 Idiomas: Inglês, Mandarin 
+
+*Iniciando a minha jornada no mundo da Programação*
 
 ##
 
