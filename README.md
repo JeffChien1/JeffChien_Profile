@@ -1,10 +1,11 @@
 ## Jeff Chien
 
-- 👷‍ Engenheiro Civil
-- 👨‍✈️ Piloto Profissional RPA
-- 🔊 Idiomas: Inglês, Mandarin 
+- 👷‍ Engenheiro Civil - Civil Engineer
+- 👨‍✈️ Piloto Profissional RPA - Drone's Pilot
+- 🔊 Idiomas: Inglês, Mandarin - Language: English, Mandarin (Chinese)
 
-*Iniciando a minha jornada no mundo da Programação, atualmente fazendo vários projetos no mundo de Front-end*
+*I'm working full-time as Engineer but i'm looking foward to start my new career in Tech area. Nowadays i'm studying in Alura courses to be front-end developer. 
+I have already over than 15 certificates and i'm starting to look for jobs in Tech area.*
 
 ##
 
